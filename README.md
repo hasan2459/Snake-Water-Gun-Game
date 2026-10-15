@@ -112,7 +112,3 @@ Through this project, I practiced:
 ## 👨‍💻 Author
 
 **Hasan Imam**
-
----
-
-⭐ If you like this project, feel free to explore the code and try improving it!
